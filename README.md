@@ -1,3 +1,12 @@
+# www.johndurham.dev (React)
+
+This is my personal website that I had intended to create using Flask, but have decided to pursue React (maybe even MERN).  I will be adding more pages (React Router) for a more dynamic site including an old school chat room and account options for commenting on projects/book listings in the future.
+
+<p align="center">
+  <img alt="VS Code in action" src="https://github.com/kilodelta8/johndurham.dev-react/blob/main/images/jdDev001.png">
+</p>
+
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
